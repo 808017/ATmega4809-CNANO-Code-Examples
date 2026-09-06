@@ -1,0 +1,58 @@
+# ninja log v7
+36	472	8104303864416897	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+19	379	8104303864247016	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+24	59	8104303862657973	CMakeFiles/clean.additional	26129636c04a0719
+59	74	8104303862997771	clean	399d54b301322ac8
+27	416	8104303864336938	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+44	510	8104303864506840	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+511	1229	8104303869163967	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+58	673	8104304097429117	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+42	707	8104304097269230	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+50	738	8104304097359160	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+68	743	8104304097539057	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+743	992	8104304104288521	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+36	86	8104305355372106	CMakeFiles/clean.additional	26129636c04a0719
+87	103	8104305355871764	clean	399d54b301322ac8
+17	401	8104305357210929	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+36	418	8104305357410814	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+28	443	8104305357320870	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+45	491	8104305357490766	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+492	734	8104305361958003	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+7	47	8104306437678324	CMakeFiles/clean.additional	26129636c04a0719
+47	63	8104306438088079	clean	399d54b301322ac8
+37	413	8104306439527215	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+29	427	8104306439437255	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+18	429	8104306439337303	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+46	479	8104306439607150	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+479	709	8104306443944452	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+8	64	8104308585558063	CMakeFiles/clean.additional	26129636c04a0719
+64	81	8104308586117728	clean	399d54b301322ac8
+26	374	8104308587436903	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+36	382	8104308587526839	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+17	444	8104308587336946	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+44	534	8104308587616789	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+534	763	8104308592513753	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+9	62	8104309835525366	CMakeFiles/clean.additional	26129636c04a0719
+63	80	8104309836065026	clean	399d54b301322ac8
+20	389	8104309837374234	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+28	396	8104309837464145	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+37	403	8104309837554090	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+47	447	8104309837654028	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+447	671	8104309841651560	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca
+6	59	8104310829294590	CMakeFiles/clean.additional	26129636c04a0719
+60	81	8104310829824267	clean	399d54b301322ac8
+40	430	8104310831453255	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+18	434	8104310831233388	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+51	443	8104310831563199	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+30	65	8104311495200532	CMakeFiles/clean.additional	26129636c04a0719
+65	80	8104311495560323	clean	399d54b301322ac8
+17	387	8104311496729606	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+36	404	8104311496929486	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+45	451	8104311497009422	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+28	66	8104311703881601	CMakeFiles/clean.additional	26129636c04a0719
+66	82	8104311704271359	clean	399d54b301322ac8
+42	437	8104311705700463	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/mcp9808.c.o	52133f79ccc628ef
+23	442	8104311705520604	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/i2c.c.o	4db7cfdde0644b97
+52	448	8104311705800399	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/oled.c.o	8dbde9ad028da2c6
+33	451	8104311705620514	CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Temp_Monitor/main.c.o	2cac37428d22415f
+451	692	8104311709797933	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/out/OLED_Temp_Monitor/default.elf	363242366cea7bca

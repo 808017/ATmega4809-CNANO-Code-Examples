@@ -1,0 +1,4 @@
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/_build/ATmega4809_Temp_Monitor_(MCP9808)/default/CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/_build/ATmega4809_Temp_Monitor_(MCP9808)/default/CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_image_kPyyHRaO.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/_build/ATmega4809_Temp_Monitor_(MCP9808)/default/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/_build/ATmega4809_Temp_Monitor_(MCP9808)/default/CMakeFiles/rebuild_cache.dir

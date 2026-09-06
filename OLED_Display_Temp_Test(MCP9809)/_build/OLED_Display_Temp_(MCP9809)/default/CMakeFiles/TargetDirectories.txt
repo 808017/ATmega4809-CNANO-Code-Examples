@@ -1,0 +1,4 @@
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/_build/OLED_Display_Temp_(MCP9809)/default/CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/_build/OLED_Display_Temp_(MCP9809)/default/CMakeFiles/OLED_Display_Temp__MCP9809__default_image__DDS6wMG.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/_build/OLED_Display_Temp_(MCP9809)/default/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/_build/OLED_Display_Temp_(MCP9809)/default/CMakeFiles/rebuild_cache.dir

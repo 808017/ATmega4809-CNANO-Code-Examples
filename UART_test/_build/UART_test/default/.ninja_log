@@ -1,0 +1,5 @@
+# ninja log v7
+19	217	8104236139641772	CMakeFiles/UART_test_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/UART_test/main.c.o	754397311d4a6214
+219	438	8104236141640536	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/out/UART_test/default.elf	162b4207af6a4c7d
+9	63	8104236137732948	CMakeFiles/clean.additional	26129636c04a0719
+63	80	8104236138262607	clean	399d54b301322ac8

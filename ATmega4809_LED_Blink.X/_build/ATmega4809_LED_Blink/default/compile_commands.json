@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DDEBUG -DXPRJ_default=default -D__ATmega4809__ -D__DEBUG=1 -I\"C:\\Users\\yashs\\Desktop\\PIC Microcontrollers\\ATmega4809-CNANO\\Code Example\\ATmega4809_LED_Blink.X\\cmake\\ATmega4809_LED_Blink\\default\\..\\..\\..\" -c -mcpu=ATmega4809 -x c -mdfp=C:/Users/yashs/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O1 -ffunction-sections -fdata-sections -fshort-enums -fno-common -funsigned-char -funsigned-bitfields -Wall \"-LC:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/cmake/ATmega4809_LED_Blink/default/../../..\" -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\ATmega4809_LED_Blink_default_default_XC8_compile.dir\\C_\\Users\\yashs\\Desktop\\PIC_Microcontrollers\\ATmega4809-CNANO\\Code_Example\\ATmega4809_LED_Blink.X\\main.c.o -c \"C:\\Users\\yashs\\Desktop\\PIC Microcontrollers\\ATmega4809-CNANO\\Code Example\\ATmega4809_LED_Blink.X\\main.c\"",
+  "file": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/main.c",
+  "output": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default/CMakeFiles/ATmega4809_LED_Blink_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_LED_Blink.X/main.c.o"
+}
+]

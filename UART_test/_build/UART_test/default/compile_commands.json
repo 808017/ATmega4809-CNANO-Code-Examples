@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default",
+  "command": "\"c:\\Program Files\\Microchip\\xc8\\v4.00\\bin\\xc8-cc.exe\" -DXPRJ_default=default -D__ATmega4809__ -c -mcpu=ATmega4809 -x c -mdfp=C:/Users/yashs/.mchp_packs/Microchip/ATmega_DFP/3.6.299/xc8 -Wl,--gc-sections -O0 -ffunction-sections -fdata-sections -fshort-enums -funsigned-char -funsigned-bitfields -Wall -gdwarf-3 -mno-const-data-in-progmem -o CMakeFiles\\UART_test_default_default_XC8_compile.dir\\C_\\Users\\yashs\\Desktop\\PIC_Microcontrollers\\ATmega4809-CNANO\\Code_Example\\UART_test\\main.c.o -c \"C:\\Users\\yashs\\Desktop\\PIC Microcontrollers\\ATmega4809-CNANO\\Code Example\\UART_test\\main.c\"",
+  "file": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/main.c",
+  "output": "C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default/CMakeFiles/UART_test_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/UART_test/main.c.o"
+}
+]

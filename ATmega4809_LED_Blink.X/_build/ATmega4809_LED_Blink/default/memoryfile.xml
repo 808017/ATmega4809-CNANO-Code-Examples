@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="C:\Users\yashs\Desktop\PIC Microcontrollers\ATmega4809-CNANO\Code Example\ATmega4809_LED_Blink.X\out\ATmega4809_LED_Blink\default.elf">                 
+    <memory name="program">              
+      <units>bytes</units>                 
+      <length>49152</length>                 
+      <used>384</used>                     
+      <free>48768</free>                     
+    </memory>                              
+    <memory name="data">                 
+      <units>bytes</units>                 
+      <length>6144</length>                 
+      <used>0</used>                     
+      <free>6144</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 

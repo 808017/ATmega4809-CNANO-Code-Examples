@@ -1,0 +1,4 @@
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default/CMakeFiles/ATmega4809_LED_Blink_default_default_XC8_compile.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default/CMakeFiles/ATmega4809_LED_Blink_default_image_lLFFBc4H.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/_build/ATmega4809_LED_Blink/default/CMakeFiles/rebuild_cache.dir

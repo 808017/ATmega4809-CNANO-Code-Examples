@@ -1,0 +1,4 @@
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default/CMakeFiles/UART_test_default_default_XC8_compile.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default/CMakeFiles/UART_test_default_image_7cs0_zTE.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/UART_test/_build/UART_test/default/CMakeFiles/rebuild_cache.dir

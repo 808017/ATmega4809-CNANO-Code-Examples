@@ -1,0 +1,73 @@
+# ninja log v7
+234	1528	8103873631944022	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/e6b5b9a5746bdc528953f59e9692f85d/main.c.o	23bb4556cd421d3c
+1530	3568	8103873644873492	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	4019a44a386901a2
+89	246	8104203550891110	CMakeFiles/clean.additional	26129636c04a0719
+247	267	8104203552468049	clean	399d54b301322ac8
+35	6351	8104203554054812	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+26	6357	8104203553942742	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+16	6378	8104203553864850	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+45	6381	8104203554153007	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+6381	7695	8104203617515237	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+29	69	8104204514102574	CMakeFiles/clean.additional	26129636c04a0719
+69	85	8104204514509435	clean	399d54b301322ac8
+45	400	8104204516036478	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+18	404	8104204515759378	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+37	405	8104204515952404	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+28	407	8104204515857938	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+408	693	8104204519662899	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+42	79	8104207377277748	CMakeFiles/clean.additional	26129636c04a0719
+80	98	8104207377657506	clean	399d54b301322ac8
+41	4320	8104207379376467	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+18	4331	8104207379136582	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+52	4364	8104207379486377	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+28	4369	8104207379246537	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+4369	5162	8104207422660462	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+8	61	8104239267572567	CMakeFiles/clean.additional	26129636c04a0719
+61	81	8104239268102226	clean	399d54b301322ac8
+20	462	8104239269671262	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+30	487	8104239269761204	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+42	493	8104239269891137	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+53	552	8104239269991078	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+552	835	8104239274987973	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+9	174	8104244773420629	CMakeFiles/clean.additional	26129636c04a0719
+174	192	8104244775059624	clean	399d54b301322ac8
+18	396	8104244776348816	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+37	402	8104244776538681	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+28	415	8104244776458736	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+46	420	8104244776628635	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+420	649	8104244780366309	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+13	63	8104245437531074	CMakeFiles/clean.additional	26129636c04a0719
+64	83	8104245438040735	clean	399d54b301322ac8
+31	661	8104245439619767	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+17	668	8104245439489838	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+52	672	8104245439839620	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+42	746	8104245439739691	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+747	1014	8104245446781087	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+8	57	8104246512693164	CMakeFiles/clean.additional	26129636c04a0719
+58	84	8104246513192884	clean	399d54b301322ac8
+44	442	8104246515021730	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+21	471	8104246514801865	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+53	482	8104246515111672	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+31	495	8104246514891803	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+496	744	8104246519538938	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+10	61	8104247365737168	CMakeFiles/clean.additional	26129636c04a0719
+61	80	8104247366246844	clean	399d54b301322ac8
+25	432	8104247367855851	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+37	596	8104247367975768	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+57	600	8104247368175655	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+46	639	8104247368065717	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+640	985	8104247374002045	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+16	68	8104250765906495	CMakeFiles/clean.additional	26129636c04a0719
+68	88	8104250766436158	clean	399d54b301322ac8
+32	519	8104250768145101	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+43	525	8104250768255051	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+21	529	8104250768025184	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+54	537	8104250768364969	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+538	803	8104250773201984	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753
+11	216	8104252640271275	CMakeFiles/clean.additional	26129636c04a0719
+216	245	8104252642329997	clean	399d54b301322ac8
+55	499	8104252644268791	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/uart.c.o	cdc57bf48be6d1b3
+42	504	8104252644138869	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/mcp9808.c.o	35de804a722e9d33
+21	510	8104252643918999	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/i2c.c.o	ed1cc5c3e0655bce
+31	511	8104252644028932	CMakeFiles/ATmega4809_Temp_Monitor__MCP9808__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/ATmega4809_Temp_Monitor_(MCP9808)/main.c.o	109495a0e0c30dff
+511	843	8104252648825968	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_Temp_Monitor_(MCP9808)/out/ATmega4809_Temp_Monitor_(MCP9808)/default.elf	8ed1c7f7b520d753

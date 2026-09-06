@@ -1,0 +1,9 @@
+# ninja log v7
+12	71	8104268182273354	CMakeFiles/clean.additional	26129636c04a0719
+71	89	8104268182872977	clean	399d54b301322ac8
+35	391	8104268184481985	CMakeFiles/OLED_Test_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Test/main.c.o	aada215524caeea2
+45	393	8104268184581928	CMakeFiles/OLED_Test_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Test/oled.c.o	d5f5411268d76a3b
+37	1018	8104293644644607	build.ninja	c2a3f1f23c5e7d71
+37	1018	8104293644474719	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Test/_build/OLED_Test/default/cmake_install.cmake	c2a3f1f23c5e7d71
+24	403	8104268184372053	CMakeFiles/OLED_Test_default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Test/i2c.c.o	f5eb699c3059f353
+403	668	8104268188169713	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Test/out/OLED_Test/default.elf	892ab3c4d65d8a3e

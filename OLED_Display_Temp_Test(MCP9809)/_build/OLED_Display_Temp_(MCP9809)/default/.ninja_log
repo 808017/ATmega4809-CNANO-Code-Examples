@@ -1,0 +1,57 @@
+# ninja log v7
+23	500	8104279627172062	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+56	508	8104279627501863	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+32	71	8104279625393164	CMakeFiles/clean.additional	26129636c04a0719
+72	88	8104279625782932	clean	399d54b301322ac8
+46	494	8104279627401923	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+33	434	8104279627272000	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+509	796	8104279632029062	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48
+46	976	8104279972884580	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+55	980	8104279972974527	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+64	1001	8104279973064477	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+76	1053	8104279973194395	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+1053	1419	8104279982949442	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48
+47	226	8104280192029812	CMakeFiles/clean.additional	26129636c04a0719
+227	251	8104280193828701	clean	399d54b301322ac8
+30	503	8104280195437702	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+39	518	8104280195517649	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+48	779	8104280195607596	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+19	806	8104280195317771	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+806	1123	8104280203193015	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48
+11	60	8104282028232643	CMakeFiles/clean.additional	26129636c04a0719
+60	82	8104282028722314	clean	399d54b301322ac8
+24	461	8104282030191401	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+33	467	8104282030281354	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+53	518	8104282030481234	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+31	70	8104282920033641	CMakeFiles/clean.additional	26129636c04a0719
+70	90	8104282920423415	clean	399d54b301322ac8
+41	865	8104282922172336	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+20	897	8104282921962460	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+51	916	8104282922272269	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+32	932	8104282922082392	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+31	73	8104289139355956	CMakeFiles/clean.additional	26129636c04a0719
+73	89	8104289139775704	clean	399d54b301322ac8
+39	492	8104289141324742	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+20	493	8104289141134867	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+51	501	8104289141444676	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+45	89	8104289348793091	CMakeFiles/clean.additional	26129636c04a0719
+89	109	8104289349232802	clean	399d54b301322ac8
+31	473	8104289350791849	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+40	492	8104289350891791	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+19	520	8104289350671923	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+52	546	8104289351001725	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+546	857	8104289355948649	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48
+9	58	8104289921887312	CMakeFiles/clean.additional	26129636c04a0719
+58	77	8104289922376996	clean	399d54b301322ac8
+41	426	8104289924065948	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+20	429	8104289923856071	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+30	460	8104289923956013	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+51	483	8104289924165882	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+483	773	8104289928483223	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48
+10	57	8104290321815954	CMakeFiles/clean.additional	26129636c04a0719
+57	74	8104290322295630	clean	399d54b301322ac8
+34	398	8104290323834687	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/main.c.o	739476e0acafd2d7
+22	466	8104290323704759	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/i2c.c.o	66b3f236e24ca714
+44	472	8104290323934628	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/mcp9808.c.o	1bfc25b77819fe64
+58	527	8104290324064538	CMakeFiles/OLED_Display_Temp__MCP9809__default_default_XC8_compile.dir/C_/Users/yashs/Desktop/PIC_Microcontrollers/ATmega4809-CNANO/Code_Example/OLED_Display_Temp_(MCP9809)/oled.c.o	ce5c82a20a26f008
+528	834	8104290328771624	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Display_Temp_(MCP9809)/out/OLED_Display_Temp_(MCP9809)/default.elf	6fdf95421b9c7e48

@@ -1,0 +1,39 @@
+# Build output
+Debug/
+Release/
+bin/
+obj/
+
+# Generated output files
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.o
+*.d
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+.DS_Store# Build output
+Debug/
+Release/
+bin/
+obj/
+
+# Generated output files
+*.elf
+*.hex
+*.eep
+*.map
+*.lss
+*.o
+*.d
+
+# Temporary files
+*.tmp
+*.bak
+*.log
+.DS_Store

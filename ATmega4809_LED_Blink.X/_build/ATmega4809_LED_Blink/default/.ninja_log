@@ -1,0 +1,6 @@
+# ninja log v7
+38	372	8103796383056644	CMakeFiles/ATmega4809_LED_Blink_default_default_XC8_compile.dir/f0fa754af0165dccda2be39a542f5114/newmain.c.o	853b184353ccc5d1
+45	333	8103805072723280	CMakeFiles/ATmega4809_LED_Blink_default_default_XC8_compile.dir/f0fa754af0165dccda2be39a542f5114/main.c.o	53ba625382d7169b
+71	343	8103802320003802	CMakeFiles/clean.additional	26129636c04a0719
+343	418	8103802322732096	clean	399d54b301322ac8
+335	594	8103805075621636	C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/ATmega4809_LED_Blink.X/out/ATmega4809_LED_Blink/default.elf	dee8831df5790e93

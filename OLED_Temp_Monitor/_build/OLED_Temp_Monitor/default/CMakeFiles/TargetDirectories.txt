@@ -1,0 +1,4 @@
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/_build/OLED_Temp_Monitor/default/CMakeFiles/OLED_Temp_Monitor_default_default_XC8_compile.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/_build/OLED_Temp_Monitor/default/CMakeFiles/OLED_Temp_Monitor_default_image_F67Q6DiN.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/_build/OLED_Temp_Monitor/default/CMakeFiles/edit_cache.dir
+C:/Users/yashs/Desktop/PIC Microcontrollers/ATmega4809-CNANO/Code Example/OLED_Temp_Monitor/_build/OLED_Temp_Monitor/default/CMakeFiles/rebuild_cache.dir
